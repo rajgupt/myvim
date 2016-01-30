@@ -1,0 +1,5 @@
+snipmate
+youcompleteme
+supertab
+NERTTree
+
