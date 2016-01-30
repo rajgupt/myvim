@@ -1,5 +1,5 @@
 " Don't try to be vi compatible
-set nocompatible
+" set nocompatible
 
 " Helps force plugins to load correctly when it is turned back on below
 filetype on
@@ -97,3 +97,4 @@ set listchars=tab:?\ ,eol:¬
 " set background=light
 " colorscheme solarized
 
+let g:snips_trigger_key = '<C-\>'
